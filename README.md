@@ -1,1 +1,1 @@
-# JS_DrumKit
+# Vanilla JS_DrumKit
